@@ -9,7 +9,7 @@ If you have never contributed to an open-source project before, feel free to con
 ## 📝 **How to contribute?**
 
 - Fork the repository
-- Create an issue saying you want to add your name too. (⚠️ **Note**:\*\* Creating an issue is optional.)
+- Create an issue saying you want to add your name too. (⚠️ **Note**: Creating an issue is optional.)
 - Add your name and a short description to `README.md`
 - Commit the changes
 - Create a pull request (PR)
