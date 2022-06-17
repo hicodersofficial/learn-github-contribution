@@ -22,8 +22,8 @@ Here is a boilerplate example you can copy & paste.
 ```md
 1. [Your name](/link/to/your/github/profile) - Your Stack
 
-- short description 1
-- short description 2
+   - short description 1
+   - short description 2
 ```
 
 **⚠️NOTE:⚠️** Please add your entry at the end.
