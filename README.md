@@ -34,9 +34,9 @@ Here is a boilerplate example you can copy & paste.
 
 1. [HiCoders](https://github.com/hicodersofficial) - Full-Stack Developer
 
-- I am a self-taught Full-stack web/mobile developer from India.
-- I have 5+ Years of experience in full-stack web-dev.
+   - I am a self-taught Full-stack web/mobile developer from India.
+   - I have 5+ Years of experience in full-stack web-dev.
 
-2. [Priyanshu Raj](https://github.com/priyanshuraj24) - Full-Stack Developer
+1. [Priyanshu Raj](https://github.com/priyanshuraj24) - Full-Stack Developer
 
-- I Love Writing Code! 😍
+   - I Love Writing Code! 😍
