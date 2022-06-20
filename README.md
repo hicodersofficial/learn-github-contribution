@@ -44,5 +44,5 @@ Here is a boilerplate example you can copy & paste.
 1. [Sunil Sirvi](https://github.com/Sunil-1921) - MERN Stack Developer
 
    - Final year student at NIT-Bhopal.
-   - Always in hunger or excited to learn new things.
+   - Always in excited to learn new things.
    - Follow me on [Twitter - s_sirvi11921](https://twitter.com/s_sirvi1921)
