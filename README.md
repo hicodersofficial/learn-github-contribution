@@ -40,3 +40,9 @@ Here is a boilerplate example you can copy & paste.
 1. [Priyanshu Raj](https://github.com/priyanshuraj24) - Full-Stack Developer
 
    - I Love Writing Code! 😍
+
+1. [Sunil Sirvi](https://github.com/Sunil-1921) - MERN Stack Developer
+
+   - Final year student at NIT-Bhopal.
+   - Always in hunger or excited to learn new things.
+   - Follow me on [Twitter - s_sirvi11921](https://twitter.com/s_sirvi1921)
