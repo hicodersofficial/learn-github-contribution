@@ -14,15 +14,14 @@ If you have never contributed to an open-source project before, feel free to con
 - Commit the changes
 - Create a pull request (PR)
 - Done! Now, wait for me. I will be merging your request into the repo. 😍
-
 ## ✨ **What to add?**
 
 Here is a boilerplate example you can copy & paste.
 
 ```md
-1. [Your name](/link/to/your/github/profile) - Your Stack
+1. osama ayub](/https://www.github.com/osamaayub) - Front-end developer 
 
-   - short description 1
+   - Passionate front-end developer 
    - short description 2
 ```
 
