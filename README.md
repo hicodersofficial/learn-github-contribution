@@ -46,3 +46,8 @@ Here is a boilerplate example you can copy & paste.
    - Final year student at NIT-Bhopal.
    - Always in excited to learn new things.
    - Follow me on [Twitter - s_sirvi11921](https://twitter.com/s_sirvi1921)
+
+1. [Roshan Gamage]([/link/to/your/github/profile](https://github.com/RoshanGamage01)) - Full-Stack Developer
+
+   - I am a self-taught Full-stack developer from Sri Lanka.
+  
