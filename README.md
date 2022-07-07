@@ -51,3 +51,7 @@ Here is a boilerplate example you can copy & paste.
 
    - I am a self-taught Full-stack developer from Sri Lanka.
   
+1. [Josafat Jimenez](https://github.com/JosafatJimenezB) - Front-end Developer
+
+   - I am a computer systems student from Mexico.
+   - I love create websites and learn more about it.
