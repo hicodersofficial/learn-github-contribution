@@ -55,3 +55,9 @@ Here is a boilerplate example you can copy & paste.
 
    - I am a computer systems student from Mexico.
    - I love create websites and learn more about it.
+
+1. [Ceci Giunta](https://github.com/cecigiunta) - Front-end and Full-Stack Developer
+
+   - I am a web developer from Argentina (:
+   - I enjoy learning new programming languages
+
