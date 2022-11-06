@@ -60,4 +60,8 @@ Here is a boilerplate example you can copy & paste.
 
    - I am a web developer from Argentina (:
    - I enjoy learning new programming languages
+   
+1.  [shajmil](https://github.com/shajmil) - Full-Stack Developer
+
+   - I Love Writing Code! 😍
 
