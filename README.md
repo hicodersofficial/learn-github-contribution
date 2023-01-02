@@ -20,10 +20,12 @@ If you have never contributed to an open-source project before, feel free to con
 Here is a boilerplate example you can copy & paste.
 
 ```md
-1. [Your name](/link/to/your/github/profile) - Your Stack
+1. [Zeeshan Mukhtar](https://github.com/ZeeshanMukhtar1) - A Front End Learner And Develpor
 
-   - short description 1
-   - short description 2
+   - I am a self-taught Front-End Learner and developer from Pakistan.
+   - This Contribution is just for the sake of learning purpose.
+   - i contributed in this demo Open Source Project to learn and practice github contribution in a practical way.
+   
 ```
 
 **⚠️NOTE:⚠️** Please add your entry at the end.
