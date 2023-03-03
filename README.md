@@ -37,27 +37,31 @@ Here is a boilerplate example you can copy & paste.
    - I am a self-taught Full-stack web/mobile developer from India.
    - I have 5+ Years of experience in full-stack web-dev.
 
-1. [Priyanshu Raj](https://github.com/priyanshuraj24) - Full-Stack Developer
+2. [Priyanshu Raj](https://github.com/priyanshuraj24) - Full-Stack Developer
 
    - I Love Writing Code! 😍
 
-1. [Sunil Sirvi](https://github.com/Sunil-1921) - MERN Stack Developer
+3. [Sunil Sirvi](https://github.com/Sunil-1921) - MERN Stack Developer
 
    - Final year student at NIT-Bhopal.
    - Always in excited to learn new things.
    - Follow me on [Twitter - s_sirvi11921](https://twitter.com/s_sirvi1921)
 
-1. [Roshan Gamage](https://github.com/RoshanGamage01) - Full-Stack Developer
+4. [Roshan Gamage](https://github.com/RoshanGamage01) - Full-Stack Developer
 
    - I am a self-taught Full-stack developer from Sri Lanka.
   
-1. [Josafat Jimenez](https://github.com/JosafatJimenezB) - Front-end Developer
+5. [Josafat Jimenez](https://github.com/JosafatJimenezB) - Front-end Developer
 
    - I am a computer systems student from Mexico.
    - I love create websites and learn more about it.
 
-1. [Ceci Giunta](https://github.com/cecigiunta) - Front-end and Full-Stack Developer
+6. [Ceci Giunta](https://github.com/cecigiunta) - Front-end and Full-Stack Developer
 
    - I am a web developer from Argentina (:
    - I enjoy learning new programming languages
+   
+7. [Haize](https://github.com/Wolfhaize) - Front end Dev
 
+   - Computer science student, but also self teaching some technologies.
+   - Coding genuinely makes me relaxed.
