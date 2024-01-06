@@ -61,3 +61,7 @@ Here is a boilerplate example you can copy & paste.
    - I am a web developer from Argentina (:
    - I enjoy learning new programming languages
 
+1. [Bipin] (https://github.com/Bipin-0805) - Automation QA
+	
+	-I am an Automation Tester 
+
